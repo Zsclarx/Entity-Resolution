@@ -1,0 +1,201 @@
+id,title,authors,venue,year,row_id,cluster_id
+1,Deep Learning for Natural Language Processing,John Smith,NIPS,2020,0,0.0
+2,Neural Networks in Computer Vision,Jane Doe,ICCV,2019,1,0.0
+3,Machine Learning Applications,Bob Johnson,ICML,2021,2,0.0
+4,Deep Learning for Natural Language Processing,J. Smith,NIPS,2020,3,0.0
+5,Computer Vision with Deep Learning,Alice Brown,CVPR,2020,4,0.0
+6,Natural Language Processing with Neural Networks,Mike Wilson,ACL,2019,5,0.0
+7,Deep Learning for NLP,John Smith,NIPS,2020,6,0.0
+8,Vision-based Machine Learning,Carol Davis,ICCV,2021,7,0.0
+9,Neural Networks in CV,Jane Doe,ICCV,2019,8,0.0
+10,Advanced Machine Learning,Bob Johnson,ICML,2021,9,0.0
+11,Deep Learning Applications,Tom Anderson,AAAI,2022,10,0.0
+12,Computer Vision Algorithms,Alice Brown,CVPR,2020,11,0.0
+13,NLP with Deep Learning,Mike Wilson,ACL,2019,12,0.0
+14,Machine Learning in Healthcare,Sarah Lee,JMIR,2021,13,0.0
+15,Deep Learning for Natural Language Processing,John Smith,NEURIPS,2020,14,0.0
+16,Reinforcement Learning,David Kim,ICML,2020,15,0.0
+17,Computer Vision with DL,Alice Brown,CVPR,2020,16,0.0
+18,Healthcare AI Applications,Sarah Lee,JMIR,2021,17,0.0
+19,Neural Machine Translation,Emma Watson,EMNLP,2021,18,0.0
+20,Deep Reinforcement Learning,David Kim,ICML,2020,19,0.0
+21,Medical AI Systems,Dr. Sarah Lee,JMIR,2021,20,0.0
+22,Translation with Neural Networks,Emma Watson,EMNLP,2021,21,0.0
+23,Graph Neural Networks,Chris Taylor,ICLR,2022,22,0.0
+24,Attention Mechanisms,Lisa Garcia,ICLR,2021,23,0.0
+25,Transformer Models,Robert Chen,ICLR,2020,24,0.0
+26,Graph Neural Networks,Christopher Taylor,ICLR,2022,25,0.0
+27,Attention in Deep Learning,Lisa Garcia,ICLR,2021,26,0.0
+28,Transformers for NLP,Robert Chen,ICLR,2020,27,0.0
+29,Generative Adversarial Networks,Michael Johnson,ICML,2019,28,0.0
+30,GAN Applications,Michael Johnson,ICML,2019,29,0.0
+31,Image Generation with GANs,Patricia Wong,NIPS,2020,30,0.0
+32,Generative Models,Patricia Wong,NIPS,2020,31,0.0
+33,Federated Learning,James Miller,AAAI,2021,32,0.0
+34,Privacy-Preserving ML,James Miller,AAAI,2021,33,0.0
+35,Distributed Machine Learning,Kevin Zhang,ICDM,2021,34,0.0
+36,Federated Learning Systems,James Miller,AAAI,2021,35,0.0
+37,Edge Computing for ML,Kevin Zhang,ICDM,2021,36,0.0
+38,AutoML Systems,Rachel Green,KDD,2022,37,0.0
+39,Automated Machine Learning,Rachel Green,KDD,2022,38,0.0
+40,Neural Architecture Search,Daniel Park,ICLR,2021,39,0.0
+41,AutoML for Deep Learning,Rachel Green,KDD,2022,40,0.0
+42,NAS with Reinforcement Learning,Daniel Park,ICLR,2021,41,0.0
+43,Quantum Machine Learning,Steven Adams,QIC,2022,42,0.0
+44,Quantum Computing for ML,Steven Adams,QIC,2022,43,0.0
+45,Quantum Neural Networks,Maria Rodriguez,QIC,2021,44,0.0
+46,QML Applications,Steven Adams,QIC,2022,45,0.0
+47,Quantum Deep Learning,Maria Rodriguez,QIC,2021,46,0.0
+48,Explainable AI,Jennifer Liu,AAAI,2021,47,0.0
+49,Interpretable Machine Learning,Jennifer Liu,AAAI,2021,48,0.0
+50,XAI Systems,Jennifer Liu,AAAI,2021,49,0.0
+51,Deep Learning for Natural Language Processing,J Smith,NIPS,2020,50,0.0
+52,Deep Learning for Natural Language Processing,John A. Smith,NEURIPS,2020,51,0.0
+53,Computer Vision with Deep Learning,A. Brown,CVPR,2020,52,0.0
+54,Computer Vision using Deep Learning,Alice Brown,CVPR,2020,53,0.0
+55,Neural Networks in Computer Vision,J. Doe,ICCV,2019,54,0.0
+56,Neural Networks for Computer Vision,Jane Doe,ICCV,2019,55,0.0
+57,Machine Learning Applications,Robert Johnson,ICML,2021,56,0.0
+58,Applications of Machine Learning,Bob Johnson,ICML,2021,57,0.0
+59,Natural Language Processing with Neural Networks,M. Wilson,ACL,2019,58,0.0
+60,NLP using Neural Networks,Mike Wilson,ACL,2019,59,0.0
+61,Healthcare AI Applications,S. Lee,JMIR,2021,60,0.0
+62,AI Applications in Healthcare,Sarah Lee,JMIR,2021,61,0.0
+63,Medical AI Systems,Sarah Lee,JMIR,2021,62,0.0
+64,AI Systems for Medicine,Dr. S. Lee,JMIR,2021,63,0.0
+65,Neural Machine Translation,E. Watson,EMNLP,2021,64,0.0
+66,Machine Translation using Neural Networks,Emma Watson,EMNLP,2021,65,0.0
+67,Translation with Neural Networks,E Watson,EMNLP,2021,66,0.0
+68,Graph Neural Networks,C. Taylor,ICLR,2022,67,0.0
+69,GNN Applications,Chris Taylor,ICLR,2022,68,0.0
+70,Graph Neural Network Applications,Christopher Taylor,ICLR,2022,69,0.0
+71,Attention Mechanisms,L. Garcia,ICLR,2021,70,0.0
+72,Attention Mechanisms in Deep Learning,Lisa Garcia,ICLR,2021,71,0.0
+73,Transformer Models,R. Chen,ICLR,2020,72,0.0
+74,Transformer Architecture,Robert Chen,ICLR,2020,73,0.0
+75,Transformers for Natural Language Processing,Robert Chen,ICLR,2020,74,0.0
+76,Generative Adversarial Networks,M. Johnson,ICML,2019,75,0.0
+77,GANs for Image Generation,Michael Johnson,ICML,2019,76,0.0
+78,Generative Adversarial Network Applications,Michael Johnson,ICML,2019,77,0.0
+79,Image Generation with GANs,P. Wong,NIPS,2020,78,0.0
+80,GAN-based Image Generation,Patricia Wong,NIPS,2020,79,0.0
+81,Federated Learning,J. Miller,AAAI,2021,80,0.0
+82,Federated Machine Learning,James Miller,AAAI,2021,81,0.0
+83,Distributed Federated Learning,James Miller,AAAI,2021,82,0.0
+84,Distributed Machine Learning,K. Zhang,ICDM,2021,83,0.0
+85,Distributed ML Systems,Kevin Zhang,ICDM,2021,84,0.0
+86,AutoML Systems,R. Green,KDD,2022,85,0.0
+87,Automated ML Systems,Rachel Green,KDD,2022,86,0.0
+88,Automatic Machine Learning,Rachel Green,KDD,2022,87,0.0
+89,Neural Architecture Search,D. Park,ICLR,2021,88,0.0
+90,Architecture Search with Neural Networks,Daniel Park,ICLR,2021,89,0.0
+91,Quantum Machine Learning,S. Adams,QIC,2022,90,0.0
+92,Machine Learning with Quantum Computing,Steven Adams,QIC,2022,91,0.0
+93,Quantum ML Applications,Steven Adams,QIC,2022,92,0.0
+94,Quantum Neural Networks,M. Rodriguez,QIC,2021,93,0.0
+95,Neural Networks on Quantum Computers,Maria Rodriguez,QIC,2021,94,0.0
+96,Explainable AI,J. Liu,AAAI,2021,95,0.0
+97,Explainable Artificial Intelligence,Jennifer Liu,AAAI,2021,96,0.0
+98,XAI for Machine Learning,Jennifer Liu,AAAI,2021,97,0.0
+99,Reinforcement Learning,D. Kim,ICML,2020,98,0.0
+100,Deep Reinforcement Learning,David Kim,ICML,2020,99,0.0
+101,RL Applications,David Kim,ICML,2020,100,0.0
+102,Convolutional Neural Networks,Anna Martinez,CVPR,2022,101,0.0
+103,CNN Architectures,Anna Martinez,CVPR,2022,102,0.0
+104,CNNs for Image Recognition,A. Martinez,CVPR,2022,103,0.0
+105,Recurrent Neural Networks,Brian Thompson,ICLR,2021,104,0.0
+106,RNN Applications,Brian Thompson,ICLR,2021,105,0.0
+107,Long Short-Term Memory Networks,Brian Thompson,ICLR,2021,106,0.0
+108,LSTM for Sequence Processing,B. Thompson,ICLR,2021,107,0.0
+109,Transfer Learning,Catherine White,ICML,2022,108,0.0
+110,Transfer Learning in Deep Learning,Catherine White,ICML,2022,109,0.0
+111,Domain Adaptation,C. White,ICML,2022,110,0.0
+112,Few-Shot Learning,Derek Brown,NIPS,2021,111,0.0
+113,Few-Shot Learning with Neural Networks,Derek Brown,NIPS,2021,112,0.0
+114,Meta-Learning,D. Brown,NIPS,2021,113,0.0
+115,Multi-Task Learning,Eva Johnson,AAAI,2022,114,0.0
+116,MTL Applications,Eva Johnson,AAAI,2022,115,0.0
+117,Multi-Task Deep Learning,E. Johnson,AAAI,2022,116,0.0
+118,Adversarial Examples,Frank Miller,ICLR,2020,117,0.0
+119,Adversarial Attacks on Neural Networks,Frank Miller,ICLR,2020,118,0.0
+120,Adversarial Robustness,F. Miller,ICLR,2020,119,0.0
+121,Self-Supervised Learning,Grace Davis,ICML,2021,120,0.0
+122,Self-Supervised Representation Learning,Grace Davis,ICML,2021,121,0.0
+123,SSL Applications,G. Davis,ICML,2021,122,0.0
+124,Contrastive Learning,Henry Wilson,NIPS,2021,123,0.0
+125,Contrastive Representation Learning,Henry Wilson,NIPS,2021,124,0.0
+126,Contrastive Learning Methods,H. Wilson,NIPS,2021,125,0.0
+127,Variational Autoencoders,Iris Garcia,ICLR,2021,126,0.0
+128,VAE Applications,Iris Garcia,ICLR,2021,127,0.0
+129,Variational Autoencoder Models,I. Garcia,ICLR,2021,128,0.0
+130,Optical Character Recognition,Jack Taylor,CVPR,2020,129,0.0
+131,OCR using Deep Learning,Jack Taylor,CVPR,2020,130,0.0
+132,Character Recognition with CNNs,J. Taylor,CVPR,2020,131,0.0
+133,Speech Recognition,Karen Lee,ICASSP,2021,132,0.0
+134,Automatic Speech Recognition,Karen Lee,ICASSP,2021,133,0.0
+135,ASR with Deep Learning,K. Lee,ICASSP,2021,134,0.0
+136,Sentiment Analysis,Leo Brown,ACL,2020,135,0.0
+137,Sentiment Classification,Leo Brown,ACL,2020,136,0.0
+138,Emotion Recognition in Text,L. Brown,ACL,2020,137,0.0
+139,Named Entity Recognition,Maya Smith,ACL,2021,138,0.0
+140,NER with Deep Learning,Maya Smith,ACL,2021,139,0.0
+141,Entity Recognition Systems,M. Smith,ACL,2021,140,0.0
+142,Question Answering,Noah Davis,EMNLP,2020,141,0.0
+143,QA Systems,Noah Davis,EMNLP,2020,142,0.0
+144,Question Answering with Transformers,N. Davis,EMNLP,2020,143,0.0
+145,Text Summarization,Olivia Wilson,EMNLP,2021,144,0.0
+146,Automatic Text Summarization,Olivia Wilson,EMNLP,2021,145,0.0
+147,Neural Text Summarization,O. Wilson,EMNLP,2021,146,0.0
+148,Machine Reading Comprehension,Paul Johnson,ACL,2021,147,0.0
+149,Reading Comprehension Systems,Paul Johnson,ACL,2021,148,0.0
+150,MRC with Neural Networks,P. Johnson,ACL,2021,149,0.0
+151,Image Segmentation,Quinn Martinez,CVPR,2021,150,0.0
+152,Semantic Segmentation,Quinn Martinez,CVPR,2021,151,0.0
+153,Segmentation with Deep Learning,Q. Martinez,CVPR,2021,152,0.0
+154,Object Detection,Rachel Thompson,CVPR,2020,153,0.0
+155,Object Detection with CNNs,Rachel Thompson,CVPR,2020,154,0.0
+156,CNN-based Object Detection,R. Thompson,CVPR,2020,155,0.0
+157,Face Recognition,Samuel White,CVPR,2021,156,0.0
+158,Facial Recognition Systems,Samuel White,CVPR,2021,157,0.0
+159,Face Recognition using Deep Learning,S. White,CVPR,2021,158,0.0
+160,Style Transfer,Tina Brown,NIPS,2020,159,0.0
+161,Neural Style Transfer,Tina Brown,NIPS,2020,160,0.0
+162,Image Style Transfer,T. Brown,NIPS,2020,161,0.0
+163,Super Resolution,Uma Davis,CVPR,2022,162,0.0
+164,Image Super Resolution,Uma Davis,CVPR,2022,163,0.0
+165,SR with Deep Learning,U. Davis,CVPR,2022,164,0.0
+166,Drug Discovery,Victor Lee,Nature,2021,165,0.0
+167,AI for Drug Discovery,Victor Lee,Nature,2021,166,0.0
+168,Machine Learning in Drug Discovery,V. Lee,Nature,2021,167,0.0
+169,Climate Modeling,Wendy Garcia,Science,2022,168,0.0
+170,Climate Prediction with ML,Wendy Garcia,Science,2022,169,0.0
+171,ML for Climate Science,W. Garcia,Science,2022,170,0.0
+172,Protein Folding,Xavier Johnson,Cell,2021,171,0.0
+173,Protein Structure Prediction,Xavier Johnson,Cell,2021,172,0.0
+174,ML for Protein Folding,X. Johnson,Cell,2021,173,0.0
+175,Recommendation Systems,Yuki Martinez,KDD,2021,174,0.0
+176,Recommender Systems,Yuki Martinez,KDD,2021,175,0.0
+177,ML-based Recommendations,Y. Martinez,KDD,2021,176,0.0
+178,Fraud Detection,Zoe Thompson,KDD,2020,177,0.0
+179,Financial Fraud Detection,Zoe Thompson,KDD,2020,178,0.0
+180,ML for Fraud Detection,Z. Thompson,KDD,2020,179,0.0
+181,Time Series Forecasting,Adam Wilson,ICDM,2022,180,0.0
+182,Time Series Prediction,Adam Wilson,ICDM,2022,181,0.0
+183,Forecasting with Deep Learning,A. Wilson,ICDM,2022,182,0.0
+184,Anomaly Detection,Betty Clark,ICDM,2021,183,0.0
+185,Outlier Detection,Betty Clark,ICDM,2021,184,0.0
+186,Anomaly Detection with ML,B. Clark,ICDM,2021,185,0.0
+187,Clustering Algorithms,Carlos Rodriguez,ICDM,2020,186,0.0
+188,Data Clustering,Carlos Rodriguez,ICDM,2020,187,0.0
+189,ML Clustering Methods,C. Rodriguez,ICDM,2020,188,0.0
+190,Feature Selection,Diana Kim,ICML,2021,189,0.0
+191,Feature Engineering,Diana Kim,ICML,2021,190,0.0
+192,Feature Selection Methods,D. Kim,ICML,2021,191,0.0
+193,Dimensionality Reduction,Edward Taylor,ICML,2020,192,0.0
+194,PCA and Deep Learning,Edward Taylor,ICML,2020,193,0.0
+195,Dimension Reduction Techniques,E. Taylor,ICML,2020,194,0.0
+196,Ensemble Methods,Fiona Davis,ICML,2022,195,0.0
+197,Ensemble Learning,Fiona Davis,ICML,2022,196,0.0
+198,ML Ensemble Techniques,F. Davis,ICML,2022,197,0.0
+199,Cross-Validation,George Martinez,ICML,2021,198,0.0
+200,Model Validation,George Martinez,ICML,2021,199,0.0
